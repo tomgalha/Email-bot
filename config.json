@@ -1,0 +1,8 @@
+{
+    "limite_trabajos": 15,
+    "limite_palabras": 50,
+    "inicio": 8,
+    "fin": 21,
+    "aceptados_hoy": 99,
+    "ejecutando": true
+}
